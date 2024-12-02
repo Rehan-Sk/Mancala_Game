@@ -1,13 +1,15 @@
-#Mancala Game with GUI in Python
-This is a classic Mancala game implemented using Python and tkinter. Mancala is a two-player strategy board game that involves collecting seeds into "stores" by moving them around the board. The game ends when one player has no more seeds to distribute, and the player with the most seeds in their store wins.
+#Mancala 
+##Game with GUI in Python
+-This is a classic Mancala game implemented using Python and tkinter. Mancala is a two-player strategy board game that involves collecting seeds into "stores" by moving them around the board. The game ends when one player has no more seeds to distribute, and the player with the most seeds in their store wins.
 
-Features
-Graphical User Interface (GUI): The game uses the tkinter library to create an interactive board and buttons for each move.
-Two-player Mode: Play against a friend on the same computer, with two players taking turns.
-Game Rules:
-Players take turns selecting a hole on the board and distribute seeds clockwise into other holes.
-The goal is to collect more seeds into your store (one of the pits on the board).
-Win Condition: The game ends when all pits on one side of the board are empty. The player with the most seeds in their store wins.
+##Features
+-Graphical User Interface (GUI): The game uses the tkinter library to create an interactive board and buttons for each move.
+-Two-player Mode: Play against a friend on the same computer, with two players taking turns.
+
+##Game Rules:
+-Players take turns selecting a hole on the board and distribute seeds clockwise into other holes.
+-The goal is to collect more seeds into your store (one of the pits on the board).
+##Win Condition: The game ends when all pits on one side of the board are empty. The player with the most seeds in their store wins.
 Installation Requirements
 To run the game, you'll need to have Python 3.x and the tkinter library installed.
 
